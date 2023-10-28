@@ -32,7 +32,7 @@ Follow these steps to set up and run the YouTube Clone UI project:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone[link to repos](https://github.com/Aadii-shah/react-native-youtube-clone.git/)
+   [GitHub Repository](https://github.com/Aadii-shah/react-native-youtube-clone.git)
 
 ### Acknowledgments
 Special thanks to Rapid API for providing access to the YouTube API.
